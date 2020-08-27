@@ -1,0 +1,17 @@
+
+.course-container{
+    width: 600px;
+    height: 250px;
+    color: white;
+    border: 1px solid #17A2B8;   
+    margin-left: 350px;
+    border-radius:5px;
+    background-color: #20C997;
+    padding: 10px;
+    
+}
+ 
+button {
+    margin:20px 0px;
+    width:100px;
+}
